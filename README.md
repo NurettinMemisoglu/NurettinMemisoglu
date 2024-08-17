@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <Nurettin Memisoglu</h1>
+<h1 align="center">Hi 👋, I'm Nurettin Memisoglu</h1>
 <h3 align="center">A Computer Engineering Student in Amasya University</h3>
 
 - 🔭 I’m currently working on **React**
